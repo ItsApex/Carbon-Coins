@@ -17,5 +17,5 @@ The app tracks and displays the C02 emission. The carbon emission is calculated 
 - We'll need to keep the software running in the background to keep it tracking.
 - Improve the UI.
 
-* Check Out the APK here 
+# Check Out the APK here 
 - https://drive.google.com/file/d/1dKTwiu6rAbU3seKGqkP8CXp7bbCqkgNY/view?usp=sharing
